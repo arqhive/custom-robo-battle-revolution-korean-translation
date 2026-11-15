@@ -5,6 +5,8 @@
 
 **제작: arqhive** · **최신 버전: [v1.0f](../../releases/tag/v1.0f)**
 
+**소개 페이지: [arqhive 한글 패치 아카이브](https://arqhive.vercel.app/korean-translation/custom-robo-battle-revolution)**
+
 - 본편 대사, 선택지, 메뉴, 파츠 이름과 설명, 도움말, 공략 조언, 홀로세움 설명, 시스템 안내를 한글화했습니다.
 - 모드 선택·이름 입력 화면의 그림 글씨, 마을의 지역 이름판(3D), 간판 그림을 한글화했습니다.
 - 주인공 이름을 한글로 입력할 수 있습니다(자모를 골라 글자를 조합합니다).
